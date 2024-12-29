@@ -1659,7 +1659,7 @@ checksum = "3c5e1a9a646d36c3599cd173a41282daf47c44583ad367b8e6837255952e5c67"
 
 [[package]]
 name = "solana-frozen-abi"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "ahash 0.8.5",
  "blake3",
@@ -1687,7 +1687,7 @@ dependencies = [
 
 [[package]]
 name = "solana-frozen-abi-macro"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1697,7 +1697,7 @@ dependencies = [
 
 [[package]]
 name = "solana-logger"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "env_logger",
  "lazy_static",
@@ -1706,7 +1706,7 @@ dependencies = [
 
 [[package]]
 name = "solana-program"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "ark-bn254",
  "ark-ec",
@@ -1758,7 +1758,7 @@ dependencies = [
 
 [[package]]
 name = "solana-sdk"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "anchor-lang",
  "assert_matches",
@@ -1812,7 +1812,7 @@ dependencies = [
 
 [[package]]
 name = "solana-sdk-macro"
-version = "1.17.31"
+version = "2.0.19"
 dependencies = [
  "bs58 0.4.0",
  "proc-macro2",
